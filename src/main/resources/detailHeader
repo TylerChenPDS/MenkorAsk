@@ -1,0 +1,17 @@
+authority: api.menkor.com
+accept: */*
+accept-language: zh-CN,zh;q=0.9,und;q=0.8
+authorization: bearereyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2NTI1ODk5OTUsIlgtU0lNVS1Vc2VySWQiOiIxMjMyNDExNCIsInVzZXJfbmFtZSI6IjEyMzI0MTE0IiwianRpIjoiOWNkOGZhNWItMTY5MC00NmZmLWFkMjctNGU2NmU1MjEzNTQ1IiwiY2xpZW50X2lkIjoiZnJvbnRlbmQiLCJzY29wZSI6WyJtZW5rb3IiXX0.BLL4p1K9d9DqjgvIoKUd-szpktsrBPC-ds1ogwUYY-I
+origin: http://menkor.nju.edu.cn
+referer: http://menkor.nju.edu.cn/
+sec-ch-ua: " Not A;Brand";v="99", "Chromium";v="101", "Google Chrome";v="101"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+sec-fetch-dest: empty
+sec-fetch-mode: cors
+sec-fetch-site: cross-site' \
+user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36
+x-simu-affairid: 13090211
+x-simu-allianceid: 0
+x-simu-resourceid: 0
+x-simu-roleid: 13344998
